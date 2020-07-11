@@ -1,4 +1,4 @@
-import { Customer } from "./customer.entity.ts";
+import { Customer } from "./customer.model.ts";
 
 export interface AccountMovement {
   id: number;

@@ -1,5 +1,5 @@
 import { Router, Context } from "https://deno.land/x/oak/mod.ts";
-import { getAccountMovements } from "../controller/account_movement.controller.ts";
+import { getAccountMovements } from "../controllers/account_movement.controller.ts";
 
 const BASE_PATH = "/account-movements";
 

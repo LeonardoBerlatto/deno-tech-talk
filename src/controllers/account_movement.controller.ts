@@ -1,13 +1,13 @@
 import {
   TransactionType,
   AccountMovement
-} from "../entity/account_movement.entity.ts";
+} from "../models/account_movement.model.ts";
 import {
   Context,
   helpers,
   RouterContext
 } from "https://deno.land/x/oak/mod.ts";
-import { AccountMovementsFilter } from "../model/request/account_movements_filter.request.ts";
+import { AccountMovementsFilter } from "../types/request/account_movements_filter.request.ts";
 
 const arrayAccounts = [
   {
