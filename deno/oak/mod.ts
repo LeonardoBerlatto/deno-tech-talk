@@ -1,4 +1,6 @@
-import { Application, Router } from "oak/mod.ts";
+
+// Exemplo com Oak, um dos micro frameworks mais famosos do Deno
+import { Application, Router } from 'https://deno.land/x/oak/mod.ts';
 
 const app = new Application();
 
