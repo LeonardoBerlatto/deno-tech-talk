@@ -1,6 +1,6 @@
 # :speech_balloon: deno-tech-talk
 
-Project used to present the basics of Deno secured runtime to my team at [CWI Software](https://cwi.com.br/
+Project used to present the basics of Deno secured runtime to my team at [CWI Software](https://cwi.com.br/)
 
 ## :open_file_folder: Project structure:
 - :open_file_folder: *deno*: Deno code samples
